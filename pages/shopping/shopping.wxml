@@ -1,0 +1,4 @@
+<!--pages/shopping/shopping.wxml-->
+<view>
+  <text>购物车</text>
+</view>

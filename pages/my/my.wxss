@@ -1,0 +1,41 @@
+/* pages/my/my.wxss */
+.my_page1 {
+  width: 100vw;
+  height: 370rpx;
+  background-color: #fc6701;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10rpx;
+}
+.my_page1 .my_page1_headimg {
+  width: 100%;
+  height: 120rpx;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  font-size: 32rpx;
+}
+.my_page1 .my_page1_headimg image {
+  width: 120rpx;
+  height: 120rpx;
+  object-fit: cover;
+  margin-right: 25rpx;
+  margin-left: 50rpx;
+}
+.my_page1 .my_page1_code {
+  width: 50rpx;
+  height: 120rpx;
+  display: flex;
+  align-items: center;
+  margin-right: 20rpx;
+}
+.my_page1 .my_page1_code image {
+  width: 50rpx;
+  height: 50rpx;
+  object-fit: cover;
+}
+.my_page2 {
+  width: 100vw;
+  height: 760rpx;
+  background-color: aquamarine;
+}

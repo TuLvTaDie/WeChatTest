@@ -1,0 +1,4 @@
+<!--pages/classify/classify.wxml-->
+<view>
+  <text>分类</text>
+</view>

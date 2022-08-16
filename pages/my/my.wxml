@@ -1,0 +1,13 @@
+<!--pages/my/my.wxml-->
+<view class="my">
+  <view class="my_page1">
+    <view class="my_page1_headimg">
+      <image src="/images/header_img.png"></image>
+      <view>登录/注册</view>
+    </view>
+    <view class="my_page1_code">
+      <image src="/images/my_code.png"></image>
+    </view>
+  </view>
+  <view class="my_page2"></view>
+</view>

@@ -1,0 +1,4 @@
+<!--pages/mi/mi.wxml-->
+<view>
+  <text>小米之家</text>
+</view>
